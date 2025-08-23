@@ -6,14 +6,16 @@ An ultra-streamlined record of design decisions, feature milestones, and to-dos�
 
 ## 📂 Table of Contents
 
-1. [Game Overview](#game-overview)  
-2. [Core Mechanics & Features](#core-mechanics--features)  
-3. [Level Progression & Story Beats](#level-progression--story-beats)  
-4. [Shop & Upgrade System](#shop--upgrade-system)  
-5. [Debugging & Polish](#debugging--polish)  
-6. [Assets & UI Considerations](#assets--ui-considerations)  
-7. [Code Structure & Modules](#code-structure--modules)  
-8. [Next Steps & Roadmap](#next-steps--roadmap)  
+1. [Game Overview](#-game-overview)  
+2. [Core Mechanics & Features](#-core-mechanics--features)  
+3. [Level Progression & Story Beats](#-level-progression--story-beats)  
+4. [Shop & Upgrade System](#-shop--upgrade-system)  
+5. [Debugging & Polish](#-debugging--polish)  
+6. [Assets & UI Considerations](#-assets--ui-considerations)  
+7. [Code Structure & Modules](#-code-structure--modules)  
+8. [Next Steps & Roadmap](#-next-steps--roadmap)  
+9. [Big Session Queries](#-big-session-queries)  
+10. [AI Enhancement Journey](#-spacegame-ai-enhancement-journey)  
 
 ---
 
@@ -68,10 +70,11 @@ An ultra-streamlined record of design decisions, feature milestones, and to-dos�
   ```python
   if __name__ == "__main__":
       main()
+  ```
 
 ---
 
-# Big Session Queries
+## 📌 Big Session Queries
 
 A consolidated list of the major, multi-step requests you’ve made in this project session.
 
@@ -103,30 +106,15 @@ _Last updated: Saturday, 23 August 2025, 12:12 IST_
 
 ---
 
-# 🌟 My SpaceGame AI Enhancement Journey 🌟
+## 🤖 Space Game AI Enhancement Journey
 
 > A chronicle of every question I asked as I built, debugged, and polished my Python space shooter.  
-> Ready to copy into `QUESTIONS.md` and share your epic dev saga.
-
----
-
-## 📋 Table of Contents
-
-1. [Reading the Python File](#1-reading-the-python-file)  
-2. [Boss Phase Transition Cinematic](#2-boss-phase-transition-cinematic)  
-3. [Integrate the Cinematic](#3-integrate-the-cinematic)  
-4. [Planet Icons & Names in `spaceshi2.py`](#4-planet-icons--names-in-spaceshi2py)  
-5. [Troubleshooting Planet Visibility](#5-troubleshooting-planet-visibility)  
-6. [Debugging the Drawing Code](#6-debugging-the-drawing-code)  
-7. [Adding a Background to `spaceshi.py`](#7-adding-a-background-to-spaceshipy)  
-8. [Dialogue Advance with ENTER](#8-dialogue-advance-with-enter)  
-9. [Excluding the MD Query & This Latest Query](#9-excluding-the-md-query--this-latest-query)  
 
 ---
 
 ## 1. Reading the Python File
 
-> “This is a python file can you read it?”
+> “I have dropped a .py file, read it  and get ready"
 
 ---
 
@@ -140,39 +128,14 @@ _Last updated: Saturday, 23 August 2025, 12:12 IST_
 
 ---
 
-## 3. Integrate the Cinematic
-
-> “yeah… please just integrate it… Im dumb”
-
----
-
-## 4. Planet Icons & Names in `spaceshi2.py`
-
-> “Hey, I wanna know how I can put planet icons and names in spaceshi2.py”
-
----
-
-## 5. Troubleshooting Planet Visibility
-
-> “I cannot see the planets?”
-
----
-
-## 6. Debugging the Drawing Code
-
-> “Well that did not fix it…  
-> here is the drawing part, help me out here”
-
----
-
-## 7. Adding a Background to `spaceshi.py`
+## 3. Adding a Background to `spaceshi.py`
 
 > “It worked :D,  
 > Now I wanna add a background for spaceshi.py.”
 
 ---
 
-## 8. Dialogue Advance with ENTER
+## 4. Dialogue Advance with ENTER
 
 > ```python
 > story_text = [
@@ -195,14 +158,6 @@ _Last updated: Saturday, 23 August 2025, 12:12 IST_
 >
 > “I wish to add going to the next dialogue by pressing enter”
 
----
+![botosprinted](C:\mreumang\SpaceBattleshipYAMATO\sprites\botosprinted.png)
 
-## 9. Excluding the MD Query & This Latest Query
-
-> “except the MD Query , THANKS  
-> and also this qurey”
-
----
-
-🎉 That’s the complete, refined list of my dev questions—flashy, structured, and ready for `QUESTIONS.md`!  
-Copy, paste, and let your collaborators trace your epic journey.  
+## 				**THANKS FOR READING**
