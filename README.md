@@ -25,3 +25,4 @@ SPACE-SHI
 
 -> Copilot chat link - https://github.com/copilot/share/8051422c-4b80-88f0-8041-6247a09308d2
 
+DISCLAIMER: You MIGHT need a friend to have a fighting chance.
