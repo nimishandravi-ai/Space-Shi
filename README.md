@@ -1,6 +1,6 @@
 SPACE-SHI
 
--> This is a game on the theme of cosmic adventures, but guess what? You're in a war. Yes, a war. Some context: 
+-> This is a game on the theme of cosmic adventures, but guess what? You're in a war. Yes, a WAR. Some context: 
 - Our beautiful planet, Earth was invaded by the Empire, a faction spanning multiple solar systems whose only goal is profit, regardless of the cost.
 - To combat this, the Union was established, a collection of all the world's nations whose sole purpose was combatting the extraterrestrial threat.
 
@@ -13,6 +13,8 @@ SPACE-SHI
 - Press A and D to move left and right, the arrow keys do nothing.
 - LMB(Left Mouse Button) to fire at the position aimed at by your cursor.
 - In the last mission, you have the freedom to move up and down upto a certain limit.
+
+-> The main file is 'spaceshi.py', open it. Also, play with concentration, its a war after all.
 
 -> Inspirations:
 - Space Invaders
