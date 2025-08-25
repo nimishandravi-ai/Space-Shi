@@ -22,7 +22,7 @@ TURRET_STOP_Y = 135
 ALLY_RADIUS = 16
 ALLY_SPEED = 5
 ALLY_RELOAD_TIME = 0.5
-WAVE_SIZE = 2
+WAVE_SIZE = 1
 RELOAD_TIME = 0
 MISSION_TIME = 64
 NEXT_MISSION_FILE = "spaceshi2.py"
@@ -374,4 +374,5 @@ def main():
             show_story()
 
 if __name__ == '__main__':
+
     main()
