@@ -76,7 +76,7 @@ An ultra-streamlined record of design decisions, feature milestones, and to-dos�
 
 ## 📌 Big Session Queries
 
-A consolidated list of the major, multi-step requests you’ve made in this project session.
+A consolidated list of the major, multi-step requests we’ve made in this project session.
 
 1. Design blueprint for Mission 3 finale  
 2. Base template for `spaceshi3.py` with:
@@ -101,8 +101,6 @@ A consolidated list of the major, multi-step requests you’ve made in this proj
 14. Sketch session-management logic for persistent gameplay (save/load state)  
 15. Brainstorm upgrade-path progression and player-agency mechanics  
 
-—  
-_Last updated: Saturday, 23 August 2025, 12:12 IST_  
 
 ---
 
