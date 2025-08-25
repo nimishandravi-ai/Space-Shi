@@ -5,9 +5,9 @@ SPACE-SHI
 - To combat this, the Union was established, a collection of all the world's nations whose sole purpose was combatting the extraterrestrial threat.
 
 -> A little context about the missions:
-- You were put in a spaceship and sent off to counter the attack, you have two ally ships that support you.
-- After successfully countering the ruthless attack, you are sent off on a reconnaissance mission that aims to find the location of the enemy Overlord.
-- You are sent off to the Overlord's planet, its going to be an unforgiving fight... Oh and the overlord is not what he seems like.
+- Mission 1 : You were put in a spaceship and sent off to counter the attack, you have two ally ships that support you.
+- Mission 2 : After successfully countering the ruthless attack, you are sent off on a reconnaissance mission that aims to find the location of the enemy Overlord. You can shop for more allies and upgrades.
+- Mission 3 : You are sent off to the Overlord's planet, its going to be an unforgiving fight... Oh and the overlord is not what he seems like.
 
 -> The controls of the game are as follows:
 - Press A and D to move left and right, the arrow keys do nothing.
