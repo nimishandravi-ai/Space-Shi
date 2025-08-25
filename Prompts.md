@@ -158,6 +158,5 @@ _Last updated: Saturday, 23 August 2025, 12:12 IST_
 >
 > “I wish to add going to the next dialogue by pressing enter”
 
-![botosprinted](C:\mreumang\SpaceBattleshipYAMATO\sprites\botosprinted.png)
 
 ## 				**THANKS FOR READING**
