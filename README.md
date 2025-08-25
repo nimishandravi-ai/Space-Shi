@@ -12,9 +12,16 @@ SPACE-SHI
 -> The controls of the game are as follows:
 - Press A and D to move left and right, the arrow keys do nothing.
 - LMB(Left Mouse Button) to fire at the position aimed at by your cursor.
+- In the last mission, you have the freedom to move up and down upto a certain limit.
 
 -> Inspirations:
 - Space Invaders
 - Balatro
 
--> 
+-> Credits:
+- Developers - Umang Kumar and Shubham
+- Designing/Sprites - Umang Kumar
+- Special Thanks to our teacher incharge Ms. Chetna Aggarwal
+
+-> Copilot chat link - https://github.com/copilot/share/8051422c-4b80-88f0-8041-6247a09308d2
+
